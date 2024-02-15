@@ -36,10 +36,9 @@ Statsmodels
 Gradio 
 
 ## Points To Note
-There are two .ipynb files: 
+There are two .ipynb files:<br><br> 
 payEquitySoftware.ipynb :
-Contains full project code including gradio module for user interface. The code for linear regression model (Pay gap trend prediction) utilises sklearn library only and not the one provided by OneAPI  (sklearnex)
-RegressionModelOneAPI .ipynb:
+Contains full project code including gradio module for user interface. The code for linear regression model (Pay gap trend prediction) utilises sklearn library only and not the one provided by OneAPI  (sklearnex)<br><br>RegressionModelOneAPI .ipynb:
 Contains code for the linear regression model that has been employed for predicting the trend of pay gap using the extension for sklearn (sklearnex) provided by OneAPI.
 The following graph depicts the comparison of pay gap on the basis of performance level
 
