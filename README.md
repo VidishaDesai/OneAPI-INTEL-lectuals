@@ -21,19 +21,19 @@ The data set has been taken from glassdoor and focuses on income for various job
 
 ## Usage
 Input - Upload payroll datasets for the current and past four years.
-Analysis - Run the software to generate insights and visualizations.
-Interpretation - Gain valuable insights into pay disparities and trends within the organization.
-Action - Utilize findings to implement strategies for addressing and mitigating pay inequalities.
+<br>Analysis - Run the software to generate insights and visualizations.
+<br>Interpretation - Gain valuable insights into pay disparities and trends within the organization.
+<br>Action - Utilize findings to implement strategies for addressing and mitigating pay inequalities.
 
 ## Import Requirements
 Pandas
-Numpy
-Plotly
-Matplotlib
-Seaborn
-Scikit-learn
-Statsmodels
-Gradio 
+<br>Numpy
+<br>Plotly
+<br>Matplotlib
+<br>Seaborn
+<br>Scikit-learn
+<br>Statsmodels
+<br>Gradio 
 
 ## Points To Note
 There are two .ipynb files:<br><br> 
@@ -42,6 +42,7 @@ Contains full project code including gradio module for user interface. The code 
 Contains code for the linear regression model that has been employed for predicting the trend of pay gap using the extension for sklearn (sklearnex) provided by OneAPI.
 The following graph depicts the comparison of pay gap on the basis of performance level
 
+
 Here, the blue bars represent the positive value of pay gap, which means, on an average, men earn more than women for that year whereas some of the coral coloured bars represent the negative value of pay gap indicating that women earn more than men on the basis of performance level.
 
 
@@ -49,6 +50,6 @@ Here, the blue bars represent the positive value of pay gap, which means, on an 
 
 ## Contributors
 Vidisha Desai (@VidishaDesai)
-Lavanya Vasudevan (@LaviVasudevan)
-Aashika Jetti 
+<br>Lavanya Vasudevan (@LaviVasudevan)
+<br>Aashika Jetti 
 
