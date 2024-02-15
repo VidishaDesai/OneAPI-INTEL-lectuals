@@ -42,7 +42,7 @@ Contains full project code including gradio module for user interface. The code 
 Contains code for the linear regression model that has been employed for predicting the trend of pay gap using the extension for sklearn (sklearnex) provided by OneAPI.
 The following graph depicts the comparison of pay gap on the basis of performance level
 
-refer img.png
+
 ![Local Image](img.png)
 
 
