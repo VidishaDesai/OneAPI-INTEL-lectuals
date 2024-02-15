@@ -50,6 +50,8 @@ Here, the blue bars represent the positive value of pay gap, which means, on an 
 
 ## Contributors
 Vidisha Desai (@VidishaDesai)
-<br>Lavanya Vasudevan (@LaviVasudevan)
-<br>Aashika Jetti 
+
+Lavanya Vasudevan (@LaviVasudevan)
+
+Aashika Jetti 
 
