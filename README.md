@@ -17,15 +17,7 @@ Utilizes linear regression models to predict future pay gap trends based on hist
 
 ## About the Data Set
 The data set has been taken from glassdoor and focuses on income for various job titles based on gender. As there have been many studies showcasing that women are paid less than men for the same job titles, this data set will be helpful in identifying the depth of the gender-based pay gap. The features of the data set to be uploaded are:
-Job Title : Depending on the company
-Gender : Male/ Female
-Age : from 18 onwards
-PerfEval :  Performance evaluation (ranges from 1 to 5)
-Education : Highest degree of education (High School, College, Masters, PhD) 
-Dept : Departments available in the company 
-Seniority : Seniority level (ranges from 1-5)
-Base Pay : Basic salary received
-Bonus : Extra salary received 
+Job Title : Depending on the company<br>Gender : Male/ Female<br>Age : from 18 onwards<br>PerfEval :  Performance evaluation (ranges from 1 to 5)<br>Education : Highest degree of education (High School, College, Masters, PhD) <br>Dept : Departments available in the company <br>Seniority : Seniority level (ranges from 1-5)<br>Base Pay : Basic salary received<br>Bonus : Extra salary received 
 
 
 ## Usage
