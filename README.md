@@ -43,6 +43,7 @@ Contains code for the linear regression model that has been employed for predict
 The following graph depicts the comparison of pay gap on the basis of performance level
 
 refer img.png
+![Local Image](img.png)
 
 
 Here, the blue bars represent the positive value of pay gap, which means, on an average, men earn more than women for that year whereas some of the coral coloured bars represent the negative value of pay gap indicating that women earn more than men on the basis of performance level.
