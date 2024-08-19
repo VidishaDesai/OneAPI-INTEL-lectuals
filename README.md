@@ -25,7 +25,7 @@ Input - Upload payroll datasets for the current and past four years.
 <br>Interpretation - Gain valuable insights into pay disparities and trends within the organization.
 <br>Action - Utilize findings to implement strategies for addressing and mitigating pay inequalities.
 
-## Import Requirements
+## Prerequisites
 Pandas
 <br>Numpy
 <br>Plotly
